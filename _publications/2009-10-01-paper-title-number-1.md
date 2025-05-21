@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Calculated Mechanism of Cyanobacterial Aldehyde-Deformylating Oxygenase: Asymmetric Aldehyde Activation by a Symmetric Diiron Cofactor"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Cyanobacterial aldehyde-deformylating oxygenase (cADO) is a nonheme diiron enzyme that catalyzes the conversion of aldehyde to alk(a/e)ne, an important transformation in biofuel research. In this work, we report a highly desired computational study for probing the mechanism of cADO. By combining our QM/MM results with the available <sup>57</sup>Fe Mössbauer spectroscopic data, the gained detailed structural information suggests construction of asymmetry from the symmetric diiron cofactor in an aldehyde substrate and O<sub>2</sub> activation. His160, one of the two iron-coordinate histidine residues in cADO, plays a pivotal role in this asymmetric aldehyde activation process by unprecedented reversible dissociation from the diiron cofactor, a behavior unknown in any other nonheme dinuclear or mononuclear enzymes. The revealed intrinsically asymmetric interactions of the substrate/O<sub>2</sub> with the symmetric cofactor in cADO are inspirational for exploring diiron subsite resolution in other nonheme diiron enzymes.'
+date: 2016-10-24
+venue: 'The Journal of Physical Chemistry Letters'
+paperurl: 'https://pubs.acs.org/doi/10.1021/acs.jpclett.6b02061'
+citation: '<b>Chao Wang</b>, Chongyang Zhao, Lianrui Hu, and Hui Chen*. &quot;Calculated Mechanism of Cyanobacterial Aldehyde-Deformylating Oxygenase: Asymmetric Aldehyde Activation by a Symmetric Diiron Cofactor&quot; <i>J. Phys. Chem. Lett.</i> <b>2016<b>, 7(21), 4427-4432'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
