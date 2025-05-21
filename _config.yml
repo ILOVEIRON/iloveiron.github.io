@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Chao Wang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Chao Wang"
+description              : &description "Learning from nature to recreate its chemistry"
 url                      : https://iloveiron.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ILOVEIRON/iloveiron.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Chao Wang (王超)"
   pronouns         : # example: "she/her"  
-  bio              : "Learning from nature to recreate its chemistry"
+  bio              : "Postdoctoral researcher in computational chemistry, studying bioinorganic and physical organic catalysis"
   location         : "USA"
   employer         : "The Pennsylvania State University"
   uri              : # URL
