@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Home"
+title                    : "💻 ĤΨ = EΨ"
 title_separator          : "-"
 name                     : &name "Chao Wang"
 description              : &description "Personal description"
