@@ -1,1 +1,11 @@
-
+---
+title: "Diverging Reaction Pathways and Key Intermediates in Ethylene Forming Enzyme"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-04-24-paper-title-number-12
+date: 2025-04-24
+venue: 'The Journal of Physical Chemistry B'
+paperurl: 'https://pubs.acs.org/doi/full/10.1021/acs.jpcb.5c02007'
+citation: '<b>Chao Wang</b>, and Elvira R. Sayfutyarova*. <i>J. Phys. Chem. B</i> <b>2025</b>, 129(18), 4335-4349'
+---
+Ethylene-forming enzyme (EFE) is a non-heme iron(II)- and 2-oxoglutarate-(Fe(II)/2OG)-dependent oxygenase with distinct catalytic reactivity. While most Fe(II)/2OG-dependent oxygenases catalyze substrate hydroxylation with the 2OG decarboxylation to succinate, EFE primarily converts 2OG into CO<sub>2</sub> and ethylene. In this work, we employ a multifaceted approach, including molecular dynamics, quantum mechanics and molecular mechanics methods, theoretical Mössbauer spectroscopy, and the analysis of the intrinsic electric field exerted by the protein environment, to examine possible reaction pathways. Our study reveals a novel second branch point, where the ethylene formation (EF) and 3-hydroxypropionate formation pathways diverge following the Fe(III)-carbonate and C3–C5-derived propion-3-yl radical intermediates, occurring earlier than suggested in previous studies. We identified multiple subsequent EF pathways characterized by a low-energy barrier and the formation of either Fe(II)-carbonates or Fe(II)-pyrocarbonates. Based on these findings, we introduce a revised reaction mechanism for ethylene formation in EFE, which is consistent with available experimental data and highlights the importance of retaining C2-derived CO<sub>2</sub>, generated in earlier stages, within the active site for the EF pathway. We also identified intermediates that can produce the Mössbauer quadrupole doublet peak observed in recent experiments and associated with unidentified Fe(II)-containing species characteristic to the ethylene-forming reaction pathway. This work provides new insights into both the first and second branchpoints of the ethylene-forming pathway that can be useful in EFE modifications aimed at shifting the product yield in the EF reaction.
