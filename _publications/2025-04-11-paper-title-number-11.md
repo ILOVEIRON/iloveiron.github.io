@@ -1,5 +1,5 @@
 ---
-title: "Deciphering the Biological Decarboxylation Mechanism of Fatty Acids in Diiron Oxidative Decarboxylase UndA: Key Role of the Adaptive First Coordination Sphere"
+title: "💻 Deciphering the Biological Decarboxylation Mechanism of Fatty Acids in Diiron Oxidative Decarboxylase UndA: Key Role of the Adaptive First Coordination Sphere"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-04-11-paper-title-number-6
