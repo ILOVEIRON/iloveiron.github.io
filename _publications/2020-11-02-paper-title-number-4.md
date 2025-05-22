@@ -1,5 +1,5 @@
 ---
-title: "Mechanistic Dichotomy in the Activation of SAM by Radical SAM Enzymes: QM/MM Modeling Deciphers the Determinant"
+title: "💻 Mechanistic Dichotomy in the Activation of SAM by Radical SAM Enzymes: QM/MM Modeling Deciphers the Determinant"
 collection: publications
 category: manuscripts
 permalink: /publication/2020-11-02-paper-title-number-4
