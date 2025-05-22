@@ -1,5 +1,5 @@
 ---
-title: "Convergent Theoretical Prediction of Reactive Oxidant Structures in Diiron Arylamine Oxygenases AurF and CmlI: Peroxo or Hydroperoxo?"
+title: "💻 Convergent Theoretical Prediction of Reactive Oxidant Structures in Diiron Arylamine Oxygenases AurF and CmlI: Peroxo or Hydroperoxo?"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
