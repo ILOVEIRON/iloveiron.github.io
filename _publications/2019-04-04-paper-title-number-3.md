@@ -1,5 +1,5 @@
 ---
-title: "Oriented External Electric Fields: Tweezers and Catalysts for Reactivity in Halogen-Bond Complexes"
+title: "💻 Oriented External Electric Fields: Tweezers and Catalysts for Reactivity in Halogen-Bond Complexes"
 collection: publications
 category: manuscripts
 permalink: /publication/2019-04-04-paper-title-number-3
