@@ -19,13 +19,9 @@
               {% else %}
                 {% assign domain = base_path %}
               {% endif %}
-
-            {% assign full_url = domain | append: link.url %}
-            {% assign is_active = page.url == link.url %}
-
-            <li class="masthead__menu-item{% if is_active %} active{% endif %}">
-              <a href="{{ full_url }}">{{ link.title }}</a>
-            </li>
+              <li class="masthead__menu-item">
+                <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+              </li>
             {% endfor %}
             <li id="theme-toggle" class="masthead__menu-item persist tail">
               <a><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
@@ -47,7 +43,7 @@
 
   .nav-right a:hover {
     color: #007acc;
-    transform: scale(1.08);
+    transform: scale(1.15);  /* 放大比例从 1.08 提高到 1.15 */
   }
 
   .nav-right a::after {
@@ -65,13 +61,13 @@
     width: 100%;
   }
 
+  /* 删除 active 高亮样式，让当前页面不特殊显示 */
   .nav-right .active a {
-    font-weight: normal !important;
-    color: #007acc;
+    color: inherit;
   }
 
   .nav-right .active a::after {
-    width: 100%;
+    width: 0%;
   }
 
   .visible-links > li:first-child a {
