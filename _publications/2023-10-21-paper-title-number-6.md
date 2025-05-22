@@ -1,5 +1,5 @@
 ---
-title: "Hydrogen Bond Enhanced Enantioselectivity in the Nickel-Catalyzed Transfer Hydrogenation of α-Substituted Acrylic Acid with Formic Acid"
+title: "💻🧪 Hydrogen Bond Enhanced Enantioselectivity in the Nickel-Catalyzed Transfer Hydrogenation of α-Substituted Acrylic Acid with Formic Acid"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-10-21-paper-title-number-6
