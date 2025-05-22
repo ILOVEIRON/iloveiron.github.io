@@ -1,5 +1,5 @@
 ---
-title: "Photoinduced Site-Selective Aryl C-H Borylation with Electron-Donor-Acceptor Complex Derived from B<sub>2</sub>Pin<sub>2</sub> and Isoquinoline"
+title: "💻🧪 Photoinduced Site-Selective Aryl C-H Borylation with Electron-Donor-Acceptor Complex Derived from B<sub>2</sub>Pin<sub>2</sub> and Isoquinoline"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-04-14-paper-title-number-7
