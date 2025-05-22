@@ -1,5 +1,5 @@
 ---
-title: "Calculated Mechanism of Cyanobacterial Aldehyde-Deformylating Oxygenase: Asymmetric Aldehyde Activation by a Symmetric Diiron Cofactor"
+title: "💻 Calculated Mechanism of Cyanobacterial Aldehyde-Deformylating Oxygenase: Asymmetric Aldehyde Activation by a Symmetric Diiron Cofactor"
 collection: publications
 category: manuscripts
 permalink: /publication/2016-10-24-paper-title-number-1
