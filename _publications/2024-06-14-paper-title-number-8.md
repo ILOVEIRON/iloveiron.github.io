@@ -1,5 +1,5 @@
 ---
-title: "Understanding the cooperative effects in the catalysis of homodimeric fluoroacetate dehalogenase"
+title: "💻 Understanding the cooperative effects in the catalysis of homodimeric fluoroacetate dehalogenase"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-06-14-paper-title-number-8
