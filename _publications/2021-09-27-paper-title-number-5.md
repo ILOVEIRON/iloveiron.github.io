@@ -1,5 +1,5 @@
 ---
-title: "Cobalt-Catalyzed 2-(1-Methylhydrazinyl)pyridine-Assisted C–H Alkylation/Annulation: Mechanistic Insights and Rapid Access to Cyclopenta[<i>c</i>]isoquinolinone Derivatives"
+title: "💻🧪 Cobalt-Catalyzed 2-(1-Methylhydrazinyl)pyridine-Assisted C–H Alkylation/Annulation: Mechanistic Insights and Rapid Access to Cyclopenta[<i>c</i>]isoquinolinone Derivatives"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-09-27-paper-title-number-5
