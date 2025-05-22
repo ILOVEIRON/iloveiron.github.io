@@ -1,5 +1,5 @@
 ---
-title: "Harnessing Halide Ligands and External Electric Fields in Cobalt-Catalyzed Oxidative Cyclometalation: Mechanistic Insights and Reactivity Modulation"
+title: "💻 Harnessing Halide Ligands and External Electric Fields in Cobalt-Catalyzed Oxidative Cyclometalation: Mechanistic Insights and Reactivity Modulation"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-12-paper-title-number-10
