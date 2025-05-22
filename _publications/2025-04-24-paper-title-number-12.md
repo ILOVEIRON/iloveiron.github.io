@@ -1,5 +1,5 @@
 ---
-title: "Diverging Reaction Pathways and Key Intermediates in Ethylene Forming Enzyme"
+title: "💻 Diverging Reaction Pathways and Key Intermediates in Ethylene Forming Enzyme"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-04-24-paper-title-number-12
