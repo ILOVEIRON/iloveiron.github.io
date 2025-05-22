@@ -60,7 +60,17 @@
     width: 100%;
   }
 
-  /* Prevent default bolding of first nav item in some themes */
+  /* 当前页面导航项高亮：蓝色字体 + 常驻底部线 */
+  .nav-right .active a {
+    font-weight: normal !important;
+    color: #007acc;
+  }
+
+  .nav-right .active a::after {
+    width: 100%;
+  }
+
+  /* 修复主题默认对第一个导航项加粗的问题 */
   .visible-links > li:first-child a {
     font-weight: normal !important;
   }
