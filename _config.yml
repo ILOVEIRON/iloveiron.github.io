@@ -23,8 +23,8 @@ repository               : "ILOVEIRON/iloveiron.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Chao Wang<br>Ph.D."
-  pronouns         : "👨‍🔬 Postdoctoral Researcher at PSU<br>💻 Theoretical & Computational Chemistry"  
+  name             : "Chao Wang, Ph.D."
+  pronouns         : "👨‍🔬 Postdoc at PSU<br>💻 Theoretical & Computational Chemistry"  
   bio              : "💬 Learning from nature to recreate its chemistry"
   location         : "USA"
   employer         : "The Pennsylvania State University"
