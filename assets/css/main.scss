@@ -42,12 +42,11 @@
     "vendor/magnific-popup/magnific-popup"
    ;
 .author__name {
-  font-size: 1.6rem;       /* 显眼 */
-  font-weight: 700;        /* 加粗 */
-  color: #000000;          /* 纯黑，最大对比度 */
-  margin-bottom: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #000;
+  text-shadow: 0.5px 0.5px 0 rgba(0, 0, 0, 0.1);
 }
-
 .author__pronouns {
   font-size: 1rem;
   font-weight: 500;
