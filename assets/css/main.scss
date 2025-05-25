@@ -41,10 +41,20 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
-article.page.layout--single > .page__inner-wrap > .page__content {
+article.page.layout--single {
+  max-width: none !important;
+  width: auto !important;
+}
+
+article.page.layout--single .page__inner-wrap {
+  max-width: none !important;
+  width: auto !important;
+}
+
+article.page.layout--single .page__content {
   max-width: 100% !important;
   width: 100% !important;
-  padding-right: 2rem;
   padding-left: 2rem;
+  padding-right: 2rem;
   box-sizing: border-box;
 }
