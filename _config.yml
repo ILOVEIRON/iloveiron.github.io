@@ -22,7 +22,7 @@ repository               : "ILOVEIRON/iloveiron.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Chao.png"
   name             : "Chao Wang, Ph.D."
   pronouns         : "👨‍🔬 Postdoc at PSU<br>💻 Theoretical & Computational Chemistry"  
   bio              : "💬 Learning from nature to recreate its chemistry"
