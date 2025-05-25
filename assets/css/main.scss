@@ -41,28 +41,3 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
-#main {
-  display: flex !important;
-  align-items: flex-start;
-  gap: 2rem;
-}
-
-/* 控制左侧 sidebar 宽度 */
-.sidebar {
-  flex: 0 0 260px;
-}
-
-/* 控制右侧正文自动占满剩余空间 */
-article.page.layout--single {
-  flex: 1 1 auto;
-  max-width: none !important;
-  width: auto !important;
-}
-
-/* 正文内容区域内 padding 保持美观 */
-.page__content {
-  max-width: 100% !important;
-  width: 100% !important;
-  padding: 0 2rem;
-  box-sizing: border-box;
-}
