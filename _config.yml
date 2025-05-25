@@ -23,8 +23,8 @@ repository               : "ILOVEIRON/iloveiron.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Chao Wang"
-  pronouns         : # example: "she/her"  
+  name             : "Chao Wang, Ph.D."
+  pronouns         : "Theoretical & Computational Chemistry"  
   bio              : "Learning from nature to recreate its chemistry"
   location         : "USA"
   employer         : "The Pennsylvania State University"
