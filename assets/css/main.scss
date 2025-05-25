@@ -41,3 +41,15 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+/* Make single pages with `classes: wide` truly full width */
+.layout--single.wide .page__content {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.layout--single.wide .page {
+  max-width: 100% !important;
+  width: 100% !important;
+}
