@@ -42,19 +42,27 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 #main {
-  display: block !important;
+  display: flex !important;
+  align-items: flex-start;
+  gap: 2rem;
 }
 
+/* 控制左侧 sidebar 宽度 */
+.sidebar {
+  flex: 0 0 260px;
+}
+
+/* 控制右侧正文自动占满剩余空间 */
 article.page.layout--single {
-  width: calc(100% - 300px); /* 300px 取决于 sidebar 宽度，必要时你可以改 */
-  float: right;              /* 关键：向右浮动，吃掉右边空白 */
-  margin-right: 0 !important;
-  padding-right: 2rem;
-  box-sizing: border-box;
+  flex: 1 1 auto;
+  max-width: none !important;
+  width: auto !important;
 }
 
+/* 正文内容区域内 padding 保持美观 */
 .page__content {
-  width: 100% !important;
   max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 2rem;
   box-sizing: border-box;
 }
