@@ -12,13 +12,13 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /research/
+    url: /talks/
 
   - title: "CV"
     url: /cv/
         
   - title: "News"
-    url: /news/
+    url: /year-archive/
 
   - title: "Notes"
-    url: /notes/
+    url: /teaching/
