@@ -42,14 +42,23 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 /* Make single pages with `classes: wide` truly full width */
-.layout--single.wide .page__content {
-  max-width: 100% !important;
+.layout--single.wide {
+  max-width: 100vw !important;
   width: 100% !important;
-  padding-left: 2rem;
-  padding-right: 2rem;
+  margin: 0 auto !important;
+  padding: 0 !important;
 }
 
 .layout--single.wide .page {
+  max-width: 100vw !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 2rem;
+  box-sizing: border-box;
+}
+
+.layout--single.wide .page__content {
   max-width: 100% !important;
   width: 100% !important;
+  padding: 0 2rem;
 }
