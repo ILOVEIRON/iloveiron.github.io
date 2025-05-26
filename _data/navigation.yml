@@ -11,14 +11,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
-    url: /year-archive/
+  - title: "News"
+    url: /talks/
 
   - title: "CV"
     url: /cv/
         
-  - title: "News"
-    url: /talks/
+  - title: "Research"
+    url: /year-archive/
 
   - title: "Notes"
     url: /teaching/
