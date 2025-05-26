@@ -1,38 +1,15 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "News"
+title: "Blog posts"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
 
 {% include base_path %}
-
-<!-- ========== 第一部分：Presentations ========== -->
-
-<h1 class="page__title" style="margin-bottom: 1.5rem;">Presentations</h1>
-
-{% assign presentations = site.posts | where_exp:"item","item.categories contains 'presentation'" %}
 {% capture written_year %}'None'{% endcapture %}
-{% for post in presentations %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
-
----
-
-<!-- ========== 第二部分：Other News ========== -->
-
-<h1 class="page__title" style="margin-top: 3rem; margin-bottom: 1.5rem;">Other News</h1>
-
-{% assign other_news = site.posts | where_exp:"item","item.categories contains 'news'" %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in other_news %}
+{% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
