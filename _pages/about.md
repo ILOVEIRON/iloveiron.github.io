@@ -21,12 +21,13 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Research Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. &nbsp;<b>Prediction of Transient Reactive Intermediates:</b> Specialized in identifying and characterizing short-lived mechanistically crucial species using DFT and QM/MM approaches.
+1. &nbsp;<b>Electric Field Effects in Catalysis:</b> Experienced in analyzing both external electric fields (EEF) and protein-intrinsic electric fields, revealing their roles in modulating reactivity, selectivity, and transition-state stabilization.
+1. &nbsp;<b>Computational Bioinorganic Chemistry:</b> Mechanistic investigations of heme enzymes, non-heme Fe(II) enzymes, diiron oxygenases, and synthetic model complexes using integrated MD, QM/MM, and DFT workflows.
+1. &nbsp;<b>Organometallic Reaction Mechanisms:</b> Investigation of transition-metal-catalyzed transformations involving C–H activation, radical intermediates, and multistep reaction pathways.
+1. &nbsp;<b>Spectroscopy-Oriented Modeling:</b> Simulation of Mössbauer, EPR, and Raman spectra to support structural assignment of reactive species and intermediates.
+1. &nbsp;<b>Quantum Tunneling and KIEs:</b> Modeling hydrogen transfer processes with tunneling corrections to interpret and predict kinetic isotope effects.
+1. &nbsp;<b>Theory-Experiment Integration:</b> Providing mechanistic rationale and structural insight to support the design and interpretation of catalytic systems studied experimentally.
 
 Selected Highlights
 ------
