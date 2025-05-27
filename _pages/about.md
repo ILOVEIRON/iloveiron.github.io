@@ -2,7 +2,7 @@
 layout: archive
 permalink: /
 title: >
-  <div style="text-align: right; color: #d33682;">
+  <div style="text-align: right; color: #2aa198;">
     <i>Nature speaks in numbers.<br>Through theory and computation, <br>I interpret them as the language of chemistry<br> — unveiling the elegance of electrons and the beauty of reactivity.</i>
   </div>
 author_profile: true
