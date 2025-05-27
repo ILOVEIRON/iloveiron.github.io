@@ -34,15 +34,15 @@ The main configuration file for the site is in the base directory in [_config.ym
 
 Awards & Honors
 ------
-1. Merit Students of University of Chinese Academy of Sciences, <i>2016</i>
-1. ICCAS Youth Science Award of Excellence, <i>2016</i>
-1. Corporate Scholarship from GUOJIA New Material, <i>2017</i>
-1. ICCAS Youth Science Award of Excellence, <i>2017</i>
-1. Hebrew University of Jerusalem-CSC Joint Sponsored Scholarship, <i>2017</i>
-1. Director Award of Institute of Chemistry Chinese Academy of Sciences, <i>2018</i>
-1. National Scholarship for Doctoral Students, <i>2018</i>
-1. Shenzhen Overseas High-level Talent, <i>2020</i>
-1. Judge’s Award at 16th Annual Postdoctoral Research Symposium Poster Session, <i>2023</i>
+1.  Merit Students of University of Chinese Academy of Sciences, <i>2016</i>
+1.  ICCAS Youth Science Award of Excellence, <i>2016</i>
+1.  Corporate Scholarship from GUOJIA New Material, <i>2017</i>
+1.  ICCAS Youth Science Award of Excellence, <i>2017</i>
+1.  Hebrew University of Jerusalem-CSC Joint Sponsored Scholarship, <i>2017</i>
+1.  Director Award of Institute of Chemistry Chinese Academy of Sciences, <i>2018</i>
+1.  National Scholarship for Doctoral Students, <i>2018</i>
+1.  Shenzhen Overseas High-level Talent, <i>2020</i>
+1.  Judge’s Award at 16th Annual Postdoctoral Research Symposium Poster Session, <i>2023</i>
 
 Career Objective
 ------
