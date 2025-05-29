@@ -42,7 +42,6 @@ Awards & Honors
 1. &nbsp;Hebrew University of Jerusalem-CSC Joint Sponsored Scholarship, <i>2017</i>
 1. &nbsp;Director Award of Institute of Chemistry Chinese Academy of Sciences, <i>2018</i>
 1. &nbsp;National Scholarship for Doctoral Students, <i>2018</i>
-1. &nbsp;Shenzhen Overseas High-level Talent, <i>2020</i>
 1. &nbsp;Judge’s Award at 16th Annual Postdoctoral Research Symposium Poster Session, <i>2023</i>
 
 Career Objective
